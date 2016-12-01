@@ -1,0 +1,9 @@
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\bin\Debug\DogRace.exe.config
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\bin\Debug\DogRace.exe
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\bin\Debug\DogRace.pdb
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\obj\Debug\DogRace.csprojResolveAssemblyReference.cache
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\obj\Debug\DogRace.Form1.resources
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\obj\Debug\DogRace.Properties.Resources.resources
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\obj\Debug\DogRace.csproj.GenerateResource.Cache
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\obj\Debug\DogRace.exe
+c:\users\wbein\documents\visual studio 2015\Projects\DogRace\DogRace\obj\Debug\DogRace.pdb
