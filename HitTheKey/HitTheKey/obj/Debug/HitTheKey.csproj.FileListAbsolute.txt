@@ -1,0 +1,9 @@
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\bin\Debug\HitTheKey.exe.config
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\bin\Debug\HitTheKey.exe
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\bin\Debug\HitTheKey.pdb
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\obj\Debug\HitTheKey.csprojResolveAssemblyReference.cache
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\obj\Debug\HitTheKey.Form1.resources
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\obj\Debug\HitTheKey.Properties.Resources.resources
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\obj\Debug\HitTheKey.csproj.GenerateResource.Cache
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\obj\Debug\HitTheKey.exe
+c:\users\wbein\documents\visual studio 2015\Projects\HitTheKey\HitTheKey\obj\Debug\HitTheKey.pdb
